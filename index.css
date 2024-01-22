@@ -1,0 +1,2257 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.dark-mode-DuN {
+  width: 100%;
+  height: 309.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #041334;
+}
+.dark-mode-DuN .component-1-fWU {
+  width: 144.4rem;
+  height: 308.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz {
+  margin: 0rem 0.4rem 8rem 0rem;
+  box-sizing: border-box;
+  padding: 3.3rem 12.7rem 3.337rem 12.8rem;
+  width: 144rem;
+  height: 10rem;
+  backdrop-filter: blur(5rem);
+  background-color: rgba(255, 255, 255, 0.0199999996);
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .logo-m5e {
+  width: 28.5rem;
+  height: 3.3628rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU {
+  box-sizing: border-box;
+  padding: 0.481rem 0rem 0.481rem 20rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .nav-menu-dNk {
+  margin: 0.05rem 20rem 0.05rem 0rem;
+  height: calc(100% - 0.1rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .nav-menu-dNk .cryptocurrencies-7SL {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .nav-menu-dNk .exchanges-Pue {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .nav-menu-dNk .community-L4C {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .nav-menu-dNk .trades-GyS {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .header-Xwz .frame-61-pAQ .auto-group-v5gy-JLU .vector-oTa {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc {
+  margin: 0rem 29.5rem 6.5rem 0rem;
+  width: 94.1rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .todays-cryptocurrency-prices-by-market-cap-cvp {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 {
+  width: 100%;
+  height: 3rem;
+  position: relative;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .vector-H1N {
+  width: 1.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 57.4rem;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ {
+  width: 94.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ-sub-0 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ-sub-2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ-sub-3 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .group-86-uWc .group-85-XH6 .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-okQ-sub-4 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp {
+  margin: 0rem 11.6rem 4rem 12.1rem;
+  width: calc(100% - 23.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr .name-jrL {
+  margin-right: 32.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr .price-she {
+  margin-right: 15rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr .h-change-obJ {
+  margin-right: 12.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr .chart-wSc {
+  margin-right: 15.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-71-zdr .marketcap-t6x {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .px-bitcoin-YxC {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .bitcoin-sja {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .btc-chA {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .item-362524-kYU {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .item-24-HHW {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .vector-3-Dgx {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-xs2k-rGk .group-72-EAp .item-320893271955-xeY {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .png-transparent-ethereum-eth-hd-logo-dVn {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .ethereum-mM6 {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .eth-hVe {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .item-121818-2np {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .item-07-N5z {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .vector-5-ta8 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-73-t2Q .item-148563792762-qVN {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi {
+  box-sizing: border-box;
+  padding: 3.2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .shibainucoinlogo-mGY {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .shibuinu-tc4 {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .shibu-DuE {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .item-0001-ZiC {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .item-12-HPJ {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .vector-4-pPE {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-74-pcC .item-4498804882-N9r {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .px-bitcoin-et4 {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .bitcoin-BNC {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .btc-WfN {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .item-362524-rDS {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .item-24-56C {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .vector-3-CRi {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-oe1i-5Pi .group-75-hT2 .item-320893271955-kCL {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .png-transparent-ethereum-eth-hd-logo-1PA {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .ethereum-ja4 {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .eth-H5n {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .item-121818-2ZA {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .item-07-yDW {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .vector-5-7ac {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-77-GRa .item-148563792762-Fgp {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk {
+  box-sizing: border-box;
+  padding: 3.2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .shibainucoinlogo-siC {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .shibuinu-25J {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .shibu-N9A {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .item-0001-uet {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .item-12-3WC {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .vector-4-nig {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-76-LTN .item-4498804882-jtp {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .px-bitcoin-2d2 {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .bitcoin-xma {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .btc-WHJ {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .item-362524-FVn {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .item-24-CA8 {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .vector-3-LGL {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-pzqc-ngk .group-78-g3N .item-320893271955-5ji {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .png-transparent-ethereum-eth-hd-logo-Mx8 {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .ethereum-JMa {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .eth-r8C {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .item-121818-BwA {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .item-07-XEL {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .vector-5-Fg8 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .group-82-cUk .item-148563792762-CbN {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .shibainucoinlogo-pMr {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .shibuinu-AAp {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .shibu-6aG {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .item-0001-Se8 {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .item-12-b1E {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .vector-4-jNL {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-80-fjr .item-4498804882-5SC {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .px-bitcoin-Mec {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .bitcoin-uAL {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .btc-r5a {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .item-362524-Mo2 {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .item-24-hM6 {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .vector-3-EM2 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .crypto-chart-jxp .auto-group-dadj-8E8 .group-79-osz .item-320893271955-yJc {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .btn-6e8 {
+  margin: 0rem 62rem 8rem 62.4rem;
+  width: calc(100% - 124.4rem);
+  height: 6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, #3dd8ee -0%, #0897e7 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx {
+  margin: 0rem 0rem 8rem 0.4rem;
+  box-sizing: border-box;
+  padding: 5.2rem 14.1rem 5.2rem 10rem;
+  width: 144rem;
+  height: 65.1rem;
+  background-color: #00092a;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA {
+  width: 76.4482rem;
+  height: 54.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .worl-map-VZn {
+  width: 76.4482rem;
+  height: 54.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .ellipse-1-prx {
+  width: 37.4358rem;
+  height: 37.1439rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .ellipse-2-AA8 {
+  width: 33.1127rem;
+  height: 35.5174rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 6.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-20-hA4 {
+  box-sizing: border-box;
+  padding: 0.4rem 1rem 0.4rem 0.9rem;
+  width: 16.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 39rem;
+  top: 20.5rem;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-20-hA4 .group-17-PYg {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-20-hA4 .group-17-PYg .group-Lyi {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-20-hA4 .group-17-PYg .million-trades-g1z {
+  max-width: 10.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-21-k1r {
+  box-sizing: border-box;
+  padding: 0.4rem 1.3rem 0.4rem 1.2rem;
+  width: 16rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 5.6rem;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-21-k1r .group-16-42Y {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-21-k1r .group-16-42Y .vector-1iU {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-21-k1r .group-16-42Y .countries-Xwi {
+  max-width: 10rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-19-2Ng {
+  box-sizing: border-box;
+  padding: 0.4rem 0.859rem 0.4rem 0.9rem;
+  width: 18.7rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 31rem;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-19-2Ng .group-18-8gc {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-19-2Ng .group-18-8gc .vector-tvg {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.4409rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .group-19-2Ng .group-18-8gc .trading-pairs-qL8 {
+  max-width: 13.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .shibainucoinlogo-LGt {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 20rem;
+  top: 14.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .png-transparent-ethereum-eth-hd-logo-fa4 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 43.8rem;
+  top: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .map-NVA .px-bitcoin-zcL {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 36.7rem;
+  top: 33.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n {
+  width: 45.8rem;
+  height: 54rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .we-are-the-most-trusted-cryptocurrency-platform-4s6 {
+  margin-bottom: 2.5rem;
+  max-width: 45.8rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-yDN {
+  max-width: 44.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 {
+  box-sizing: border-box;
+  padding-top: 3.5rem;
+  width: 100%;
+  row-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz .group-22-j64 {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 3rem 2.5rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz .group-22-j64 .vector-sCG {
+  width: 3rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz .auto-group-qeww-Qhz {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz .auto-group-qeww-Qhz .clarity-Zat {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-wjnx-PXz .auto-group-qeww-Qhz .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-6qi {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc .group-23-YBv {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2.7rem 2.5rem 2.8rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc .group-23-YBv .vector-gJ8 {
+  width: 2.5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc .auto-group-b5x8-Dor {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc .auto-group-b5x8-Dor .confidence-BEt {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-8kex-QLc .auto-group-b5x8-Dor .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-uwa {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG .group-24-xex {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 2.8rem 2.7rem 2.7rem 2.8rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG .group-24-xex .vector-6WG {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG .auto-group-xlt4-S4L {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG .auto-group-xlt4-S4L .community-bT2 {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .map-WSx .group-26-1uW .group-25-w1n .auto-group-2ruw-rY4 .auto-group-lcwx-DxG .auto-group-xlt4-S4L .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-w16 {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ {
+  margin: 0rem 9.9rem 8rem 10.4rem;
+  width: calc(100% - 20.3rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U {
+  margin: 0rem 10.2rem 1.3rem 0rem;
+  width: 53.8rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .reason-to-invest-in-cryptocurrency-in-2022-Uv8 {
+  margin-bottom: 7rem;
+  max-width: 42.6rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE {
+  width: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-30-9WU {
+  width: 100%;
+  height: 10.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-30-9WU .vector-VqE {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-30-9WU .group-27-dwS {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-30-9WU .group-27-dwS .buying-bitcoin-in-legal-btG {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-30-9WU .group-27-dwS .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-8dJ {
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-28-1BJ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-28-1BJ .auto-group-d8ms-Apt {
+  margin: 0rem 27.9rem 0.5rem 0rem;
+  width: calc(100% - 27.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-28-1BJ .auto-group-d8ms-Apt .vector-7EL {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-28-1BJ .auto-group-d8ms-Apt .high-return-potential-fFr {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-28-1BJ .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-QDS {
+  margin-left: 4.5rem;
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-29-54g {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-29-54g .auto-group-bqu4-ReL {
+  margin: 0rem 16.6rem 0.5rem 0rem;
+  width: calc(100% - 16.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-29-54g .auto-group-bqu4-ReL .vector-Kzc {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-29-54g .auto-group-bqu4-ReL .growing-alternative-assest-class-F7a {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-1fsk-Z2U .group-31-CbE .group-29-54g .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-Ze4 {
+  margin-left: 4.5rem;
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG {
+  width: 60.1rem;
+  height: 53.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW {
+  opacity: 0.5;
+  width: 60.1rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.8rem;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .auto-group-vpxn-6XW {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .auto-group-vpxn-6XW .group-32-TN4 {
+  width: 58.35rem;
+  height: 6.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .auto-group-vpxn-6XW .group-33-bDN {
+  box-sizing: border-box;
+  padding: 3.5rem 6.9rem 3.25rem 6.9rem;
+  width: 58.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-7.png');
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .auto-group-vpxn-6XW .group-33-bDN .ellipse-4-jKa {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #5d3a5c;
+  border-radius: 0.5rem;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .group-34-2Jg {
+  box-sizing: border-box;
+  padding: 0.8rem 10.45rem;
+  width: 100%;
+  height: 5.35rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-8.png');
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .group-34-2Jg .ellipse-5-ZpQ {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #4a7e89;
+  border-radius: 0.5rem;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .group-35-5Xr {
+  width: 58.5rem;
+  height: 8.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .group-36-E9r {
+  box-sizing: border-box;
+  padding: 0.9rem 10.3rem;
+  width: 100%;
+  height: 5.35rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-10.png');
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-37-NbW .group-36-E9r .ellipse-7-B56 {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #717171;
+  border-radius: 0.5rem;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N {
+  box-sizing: border-box;
+  padding: 4.4rem 3.8rem 4.4rem 3.9rem;
+  width: 36.5rem;
+  height: 53.2rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 0;
+  border: solid 0.2rem #132346;
+  backdrop-filter: blur(0.1rem);
+  background: linear-gradient(180.04deg, rgba(4, 19, 52, 0.7799999714) -3.2%, rgba(15, 36, 83, 0.6200000048) 99.46%);
+  border-radius: 5rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.0500000007);
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .your-portfolio-is-up-213-moz {
+  margin-bottom: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .your-portfolio-is-up-213-moz .your-portfolio-is-up-213-moz-sub-0 {
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .your-portfolio-is-up-213-moz .your-portfolio-is-up-213-moz-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe {
+  margin: 0 0.2rem;
+  width: calc(100% - 0.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .bitcoin-logo-6219385960720-VG8 {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W .group-38-kC4 {
+  margin-right: 7.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W .group-38-kC4 .bitcoin-612 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W .group-38-kC4 .btc-pSp {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W .item-133-ZvC {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-41-ADr .auto-group-2w3e-p3W .vector-uUG {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .eth-diamond-black-white-CTN {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 96rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa .group-39-fbr {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa .group-39-fbr .ethereum-2BW {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa .group-39-fbr .eth-y6k {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa .item-214-v1z {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-foec-D3i .group-42-rPW .auto-group-f7oi-LZa .vector-Fpx {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .litecoin-blockchain-cryptocurrency-logo-vector-open-source-finance-concept53876-126024-kWp {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 100rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc .group-40-zRA {
+  margin-right: 6.9rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc .group-40-zRA .litecoin-k9S {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc .group-40-zRA .ltc-sE4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc .item-081-DHv {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .group-43-o5n .auto-group-y9pg-4Gc .vector-9hN {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC {
+  box-sizing: border-box;
+  padding-top: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .bitcoin-logo-6219385960720-B8G {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 .group-38-SZz {
+  margin-right: 7.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 .group-38-SZz .bitcoin-bSt {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 .group-38-SZz .btc-XrL {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 .item-133-4rG {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-44-qq6 .auto-group-gtfj-ua4 .vector-oJ4 {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .eth-diamond-black-white-gse {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 96rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C .group-39-9WL {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C .group-39-9WL .ethereum-W5z {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C .group-39-9WL .eth-SVS {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C .item-214-P9n {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .reasons-DUQ .auto-group-lxyg-RgG .group-48-W7N .group-47-DXa .group-46-sVe .auto-group-u9vw-gxC .group-45-wfA .auto-group-phve-d2C .vector-WkC {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL {
+  margin: 0rem 0rem 1.7rem 0.4rem;
+  box-sizing: border-box;
+  padding: 7rem 2.2rem 7rem 10.3rem;
+  width: 144rem;
+  height: 41.5rem;
+  background-color: #00092a;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .logo-a7n {
+  width: 31.0972rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.1011rem;
+  top: -0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk {
+  box-sizing: border-box;
+  padding-left: 8rem;
+  width: 76rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 55.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #00092a;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG {
+  width: 14.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .company-C9A {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr {
+  width: 100%;
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .about-us-g4L {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .terms-of-use-cya {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .privacy-policy-xGk {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .community-rules-W3N {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .disclaimer-3oz {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .group-57-3GG .group-53-vqr .methodology-b4p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke {
+  box-sizing: border-box;
+  padding: 0rem 8rem 0rem 12rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE {
+  margin-right: 12rem;
+  width: 13.3rem;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .support-piG {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .group-54-mdW {
+  width: 100%;
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .group-54-mdW .requested-form-7hN {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .group-54-mdW .contact-support-46p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .group-54-mdW .faqs-QAg {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-58-sHE .group-54-mdW .glossary-LKE {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .socials-3UY {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ {
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ .facebook-k84 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ .instagram-JQU {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ .twitter-ejE {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ .youtube-oc8 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .frame-60-uvk .auto-group-jquz-8Ke .group-59-HEU .group-55-PoJ .telegram-xE8 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dark-mode-DuN .component-1-fWU .footer-unL .group-83-Qyz .coinintentions-mission-is-to-make-investing-in-cryptocurrencies-easy-and-efficient-coinintention-tracks-various-data-of-cryptocurrencies-and-thus-offers-its-users-an-overview-of-all-cryptocurrencies-available-on-the-market-and-their-performance-market-capitalization-trading-volume-etc-65S {
+  width: 59.8rem;
+  height: 18rem;
+  position: absolute;
+  left: 0;
+  top: 6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dark-mode-DuN .component-1-fWU .coinintention-all-rights-reserved-U5z {
+  margin-left: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
